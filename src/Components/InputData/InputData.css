@@ -1,0 +1,11 @@
+.showTeam {
+    position: fixed;
+    text-align: -webkit-left;
+    margin-top: 50px;
+}
+.col-md-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+    margin-top: 50px;
+}

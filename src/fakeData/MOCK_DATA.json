@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "name": "Shan Watson",
+        "Team": ["Australia", "Rajasthan", "New South Wales", "Sydney Sixers", "Brisbane Heat", "Australians", "Hobart Hurricanes", "Canterbury", "Sydney Thunder", "Islamabad United", "Royal Challengers Bangalore", "St Lucia Zouks", "Dhaka Dynamites", "Chennai Super Kings", "Quetta Gladiators", "Deccan Gladiators", "Rangpur Rangers"],
+        "Role": "Batting Allrounder",
+        "Salary": 320,
+        "Age": 40,
+        "img": "https://i.ibb.co/mBjLSGz/shane-watson.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Rohit Sarma",
+        "Team": ["India", "Deccan Chargers",  "Mumbai Indians", "Indians", "India Blue" ],
+        "Role": "Batsman",
+        "Salary": 300,
+        "Age": 34,
+        "img": "https://i.ibb.co/Yd6qz3P/Rohit-Sarma.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Babor Azam",
+        "Team": [ "Sylhet Royals", "Pakistan,Islamabad United", "Rangpur Riders", "Karachi Kings", "Guyana Amazon Warriors"," Sylhet Sixers"],
+        "Role": "Batsman",
+        "Salary": 300,
+        "Age": 31,
+        "img": "https://i.ibb.co/BNRKFDP/Babor-Azom.jpg"
+    },
+    {
+        "id": 4,
+        "name": "AB de Villiers",
+        "Team": ["South Africa",  "Delhi Capitals", "Titans", "Royal Challengers Bangalore", "Barbados Tridents",  "Rangpur Riders"," Lahore Qalandars"," Middlesex", "Brisbane Heat"],
+        "Role":  "WK-Batsman",
+        "Salary": 400,
+        "Age": 37,
+        "img": "https://i.ibb.co/LrfWwjb/ab-de-villiers.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sakib Al Hassan",
+        "Team": ["Bangladesh", "Worcestershire", "Kolkata Knight Riders", "Khulna Royal Bengals", "Uthura Rudras", "Dhaka Gladiators", "Leicestershire", "Barbados Tridents", "Adelaide Strikers", "Melbourne Renegades", "Rangpur Riders", "Karachi Kings", "Jamaica Tallawahs", "Dhaka Dynamites", "Peshawar Zalmi", "Sunrisers Hyderabad", "World XI", "Brampton Wolves", "Gemcon Khulna"],
+        "Role": " Batting AllRounder",
+        "Salary": 500,
+        "Age": 30,
+        "img": "https://i.ibb.co/dgW9wMs/shakib-al-hasan.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Andro Russell",
+        "Team": [
+            "West Indies", "Khulna Royal Bengals", "Delhi Capitals", "Sylhet Royals", "Jamaica Tallawahs", "Worcestershire", "Kolkata Knight Riders",  "Melbourne Renegades", "Comilla Victorians", "Sydney Thunder", "Islamabad United", "Nottinghamshire", "Dhaka Dynamites"," Multan Sultans", "Rajshahi Royals", "Colombo Kings",  "Quetta Gladiators"
+        ],
+        "Role": "Bolling Allrounder",
+        "Salary": 630,
+        "Age": 33,
+        "img": "https://i.ibb.co/3svD4K8/Andro-Russel.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Glenn Maxwell",
+        "Team": ["Australia", "Victoria", "Cricket Australia Chairmans XI", "Melbourne Renegades", "Delhi Capitals", "Hampshire", "Melbourne Stars", "Mumbai Indians", "Surrey", "Australia A", "Punjab Kings", "Yorkshire", "Lancashire", "Cummins XI", "Finch XI", "Royal Challengers Bangalore", "London Spirit"],
+        "Role": "Batting Allrounder",
+        "Salary": 200,
+        "Age": 32,
+        "img": "https://i.ibb.co/7JJ40Lr/glenn-maxwell.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Hardik Pandya",
+        "Team": [
+            "India", "Baroda", "Mumbai Indians", "India A", "India AT20", "Indian Board Presidents XI", "World XI"
+        ],
+        "Role": "Batting Allrounder",
+        "Salary": 290,
+        "Age": 29,
+        "img": "https://i.ibb.co/zJ1Ddjk/hardik-pandya.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Mojibur Rahman",
+        "Team": ["Afghanistan U19", "Comilla Victorians", "Afghanistan", "Punjab Kings", "Hampshire", "Nangarhar Leopards", "Bengal Tigers", "Brisbane Heat", "Middlesex", "Qalandars", "Cumilla Warriors", "Asia XI", "Jamaica Tallawahs", "Peshawar Zalmi", "Bangla Tigers", "Sunrisers Hyderabad", "Northern Superchargers"],
+        "Role": "Bowler",
+        "Salary": 200,
+        "Age": 20,
+        "img": "https://i.ibb.co/RNvYGHw/mujeeb-ur-rahman.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Jospit Bumra",
+        "Team": ["India", "Mumbai Indians", "Gujarat", "West Zone", "India A", "India Green"],
+        "Role": "Bowler",
+        "Salary": 300,
+        "Age": 27,
+        "img": "https://i.ibb.co/N11Kgds/jasprit-bumrah.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Mostafizur Rahman",
+        "Team": ["Bangladesh", "Bangladesh U19", "Dhaka Dynamites", "Lahore Qalandars", "Sunrisers Hyderabad", "Sussex", "Rajshahi Kings", "Mumbai Indians"," Bangladesh A", "Rangpur Rangers", "Asia XI", "Gazi Group Chattogram", "Rajasthan Royals"],
+        "Role": "Bowler",
+        "Salary": 420,
+        "Age": 25,
+        "img": "https://i.ibb.co/9r6zW2z/mustafizur-rahman.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Ravindra Jadeja",
+        "Team": ["India", "India U19", "Rajasthan Royals", "Saurashtra", "Board Presidents XI"," Kochi Tuskers Kerala", "Chennai Super Kings", "India B", "Indians", "India A", "Gujarat Lions", "India Blue"," Rest of India"],
+        "Role": "Battingr",
+        "Salary": 250,
+        "Age": 28,
+        "img": "https://i.ibb.co/6Hd6g45/ravindra-jadeja.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Mohammad Nabi",
+        "Team": [
+            "Afghanistan", "Sylhet Royals", "Rangpur Riders"," Quetta Gladiators", "Chittagong Vikings", "Sunrisers Hyderabad", "St Kitts and Nevis Patriots", "Comilla Victorians", "Melbourne Renegades", "Leicestershire", "Balkh Legends", "Bengal Tigers", "Kent"," Delhi Bulls"," Rangpur Rangers", "St Lucia Zouks", "Karachi Kings", "London Spirit"
+        ],
+        "Role": "Bowling Allrounder",
+        "Salary": 260,
+        "Age": 33,
+        "img": "https://i.ibb.co/P9WtZ0J/mohammad-nabi.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Dawid Malan",
+        "Team": ["England", "Middlesex", "Dhaka Dynamites", "England Lions", "Peshawar Zalmi", "Barisal Bulls", "South", "Nelson Mandela Bay Stars", "Khulna Titans", "Cape Town Blitz"," Sindhis, Qalandars", "Cumilla Warriors"," Islamabad United", "Yorkshire", "Jaffna Stallions", "Hobart Hurricanes", "Team Buttler"," Pune Devils", "Punjab Kings", "Trent Rockets", "Sussex"],
+        "Role": "Batting",
+        "Salary": 270,
+        "Age": 31,
+        "img": "https://i.ibb.co/XDq544x/Dawid-Malan.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Rilee Rossouw",
+        "Team": ["Royal Challengers Bangalore", "Eagles", "Basnahira Cricket Dundee", "South Africa A", "South African Invitation XI", "Knights", "South Africa", "Quetta Gladiators", "Hampshire"," Khulna Titans", "Rangpur Riders", "Tshwane Spartans", "Rajputs", "Bangla Tigers"," Khulna Tigers", "Multan Sultans", "St Lucia Zouks", "Melbourne Renegades"],
+        "Role": "Batting",
+        "Salary": 280,
+        "Age": 32,
+        "img": "https://i.ibb.co/KyNDQbG/rilee-rossouw.jpg"
+    }
+]
